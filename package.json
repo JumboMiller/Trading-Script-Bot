@@ -12,7 +12,7 @@
   "dependencies": {
     "bybit-api": "^3.10.3",
     "dotenv": "^16.4.5",
-    "gate-api": "^5.60.1",
+    "gate-api": "^6.95.0",
     "moment-timezone": "^0.5.45",
     "winston": "^3.13.0"
   }
